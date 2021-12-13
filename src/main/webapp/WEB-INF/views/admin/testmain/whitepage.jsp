@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2> nothing in here <<<<<<<<<<<<<<< 글씨 이써요</h2>
+<h2> nothing in here <<<<<<<<<<<<<<< 글씨 이써요...</h2>
 </body>
 </html>
